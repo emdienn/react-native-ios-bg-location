@@ -37,7 +37,7 @@
     "android"
   ],
   "repository": "https://github.com/emdienn/react-native-ios-bg-location",
-  "author": "emdienn <m@emdienn.com> (https://github.com/emdienn)",
+  "author": "Matt Day <m@emdienn.com> (https://github.com/emdienn)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/emdienn/react-native-ios-bg-location/issues"
